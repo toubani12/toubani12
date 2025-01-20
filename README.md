@@ -44,9 +44,9 @@ I am a passionate Software Engineer from Morocco 🇲🇦 with a strong focus on
 ---
 
 ## 📫 How to Reach Me
-- **Email:** badreddine.toubani@example.com
-- **LinkedIn:** [Badr Eddine Toubani](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio URL](https://yourportfolio.com)
+- **Email:** fadre6@gamil.com
+- **LinkedIn:** [Badr Eddine Toubani](https://linkedin.com/in/badr-eddine-toubani-5b44361a4)
+
 
 ---
 
