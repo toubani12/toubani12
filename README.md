@@ -1,5 +1,5 @@
 # <a href="https://toubani-badr-eddine.vercel.app" target="_blank">
-  <img src="https://toubani-badr-eddine.vercel.app/profile.jpg" alt="Portfolio Preview">
+  <img src="https://toubani-badr-eddine.vercel.app/profile.jpg" alt="Portfolio Preview" width="200">
 </a> Hi there, I'm Badr Eddine Toubani! 👋
 
 ## 🌟 About Me
