@@ -1,8 +1,12 @@
 # 
   <img src="https://toubani-badr-eddine.vercel.app/profile.jpg" alt="Portfolio Preview" width="200">
  Hi there, I'm Badr Eddine Toubani! 👋
+
+ 
 <a href="https://toubani-badr-eddine.vercel.app" target="_blank">
 > **[toubani-badr-eddine.vercel.app](https://toubani-badr-eddine.vercel.app)**</a>
+
+
 ## 🌟 About Me
 I am a passionate Software Engineer from Morocco 🇲🇦 with a strong focus on building efficient, scalable, and innovative solutions. I thrive in dynamic environments where I can solve complex problems, contribute to impactful projects, and continually enhance my skills.
 
