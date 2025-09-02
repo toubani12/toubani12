@@ -15,13 +15,13 @@ I am a passionate Software Engineer from Morocco 🇲🇦 with a strong focus on
 ## 💻 Technical Skills
 
 ### Programming Languages:
-- **Proficient:** JavaScript, Python, Java
-- **Experienced with:** C++, PHP, TypeScript
+- **Proficient:** JavaScript, Python, Java, PHP,TypeScript
+- **Experienced with:** C++, R, C
 
 ### Web Development:
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS, SASS
-- **Backend:** Node.js, Express, Django, Laravel
-- **Full-Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+- **Backend:** Spring Boot, Node.js, Express, Django, Laravel
+- **Full-Stack:** IronMuscle(Next.js Spring boot PostgreSql)
 
 ### Database Management:
 - Relational: MySQL, PostgreSQL
@@ -36,7 +36,7 @@ I am a passionate Software Engineer from Morocco 🇲🇦 with a strong focus on
 ### Other Skills:
 - API Development (RESTful & GraphQL)
 - Software Architecture Design
-- Testing Frameworks: Jest, Mocha, Cypress
+- Testing Frameworks: Jest, Mocha, selenium, jacoco, Cypress
 - Agile Methodologies: Scrum, Kanban
 
 ---
