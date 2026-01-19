@@ -141,7 +141,7 @@ A comprehensive fitness management platform built with modern web technologies, 
 
 <div align="center">
   <a href="https://github.com/toubani12?tab=achievements" target="_blank">
-    <img src="./metrics.svg" alt="GitHub Achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="GitHub Achievements">
   </a>
 </div>
 
