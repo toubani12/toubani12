@@ -137,10 +137,12 @@ A comprehensive fitness management platform built with modern web technologies, 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toubani12&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+  <a href="https://github.com/toubani12?tab=achievements" target="_blank">
+    <img src="./metrics.svg" alt="GitHub Achievements">
+  </a>
 </div>
 
 ---
