@@ -142,6 +142,9 @@ A comprehensive fitness management platform built with modern web technologies, 
 <div align="center">
   <a href="https://github.com/toubani12?tab=achievements" target="_blank">
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="GitHub Achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="GitHub Achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Achievements">
   </a>
 </div>
 
