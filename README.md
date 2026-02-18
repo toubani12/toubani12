@@ -28,10 +28,6 @@ I am a passionate Software Engineer from Morocco 🇲🇦 currently pursuing a M
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toubani12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toubani12&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170">
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toubani12&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
