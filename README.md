@@ -1,6 +1,5 @@
 # 
 <div align="center">
-  <img src="https://toubani-badr-eddine.vercel.app/profile.jpg" alt="Portfolio Preview" width="200">
   
   # Hi there, I'm Badr Eddine Toubani! 👋
   
