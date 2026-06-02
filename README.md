@@ -1,11 +1,11 @@
-# 
+#
 <div align="center">
-  
+
   # Hi there, I'm Badr Eddine Toubani! 👋
-  
+
   ### Master's Student in Distributed Systems & Artificial Intelligence
   **ENSET Mohammedia** 🎓
-  
+
   <a href="https://badhacker.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-toubani--badr--eddine.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
@@ -33,6 +33,25 @@ I am a passionate Software Engineer from Morocco 🇲🇦 currently pursuing a M
 </div>
 
 ---
+
+## 🌐 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
+<details>
+  <summary>🎨 More themes</summary>
+  <br/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Green theme" width="100%"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Season theme" width="100%"/>
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Git block theme" width="100%"/>
+</details>
+
+
+---
+
+
 
 ## 💻 Technical Skills
 
@@ -150,11 +169,11 @@ A comprehensive fitness management platform built with modern web technologies, 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 <div align="center">
-  
+
   **"Building the future, one line of code at a time."** ✨
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=toubani12&color=blueviolet&style=for-the-badge)
-  
+
 </div>
 
 ---
